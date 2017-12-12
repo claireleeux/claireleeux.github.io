@@ -1,0 +1,105 @@
+
+#header {
+  background: #00CE9C;
+  width: 0 auto;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+  padding: 1px 5px;
+	}
+
+#nav ul {
+    margin: 0;
+    list-style-type: none; 
+    padding: 0;
+    width: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px; 
+}
+#nav > ul > li {
+  display: inline-block;
+  padding: 30px;
+}
+
+#Maui {
+  background: #BEDFFF;
+  list-style-type: none; 
+  width: 0 auto;
+  margin: 0 auto;
+  text-align: left;
+  color: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+  padding: 20px 30px;
+
+}
+
+#Maui1 {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding: 20;
+  list-style: none;
+}
+
+#mauiimg {
+    div{text-align:center;}
+    #mauiimg{margin:0 auto}
+
+
+}
+
+#Reykjavik {
+  background: #C2F2E3;
+  list-style-type: none; 
+  width: 0 auto;
+  margin: 0 auto;
+  text-align: left;
+  color: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+  padding: 20px 30px;
+  
+}
+#Reykjavik1 {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding: 20;
+  list-style: none;
+}
+
+
+#Aspen {
+  background: #BEDFFF;
+  list-style-type: none; 
+  width: 0 auto;
+  margin: 0 auto;
+  text-align: left;
+  color: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+  padding: 20px 30px;
+  
+}
+
+#Aspen1 {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding: 20;
+  list-style: none;
+}
+
+#footer {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+  
+  
+}
