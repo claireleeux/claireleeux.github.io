@@ -1,0 +1,9 @@
+
+
+document.write(10 * 10);
+document.write(100/10);
+document.write(50-17);
+document.write(50+17);
+document.write(Claire+Lee);
+
+

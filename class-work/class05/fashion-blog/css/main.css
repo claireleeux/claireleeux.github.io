@@ -1,18 +1,21 @@
 
 
 html {
-    font-family: sans-serif; 
-    -ms-text-size-adjust: 100%; 
-    -webkit-text-size-adjust: 100%; 
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
 }
+
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
 
 
 div {
     background-color: white;
+    width: 1000px;
     border: 5px light grey;
     padding: 5px;
-    margin: 0 auto;
-    max-width: 900px;
+    margin: 5px;
 }
 
 #h1 {
@@ -96,6 +99,6 @@ div {
 footer {
   font-weight: lighter;
   font-size: 10px;
-  color: #DADADA; 
+  color: #666666; 
 }
 
