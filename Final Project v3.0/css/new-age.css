@@ -120,7 +120,12 @@ header.masthead {
   color: white;
   background: url("../img/bg-pattern.png"), #7b4397;
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); }
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); 
+
+masthead {
+
+}
+
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
